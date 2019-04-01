@@ -4,8 +4,8 @@ This project is use for training of deep reinforcement learning, machine learnin
 
 ## What has been included
 
-# A pytorch pratical workshop
+## A pytorch pratical workshop
 
-# Useful Numpy demos and skills for deep learning
+## Useful Numpy demos and skills for deep learning
 
-# Matplotlib demos to copy
+## Matplotlib demos to copy
