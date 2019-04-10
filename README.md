@@ -15,6 +15,10 @@ There is an DRL demo to reimplement classic paper of DRL.
 ### Double DQN on Cartpole domain
 Cartpole is to control a inverse pendulum on a car.  The task is with 3 acitons: push left, right and keep.
 
+
+![Image](cartpole.git "carpole")
+
+
 ### Double DQN on Flappy Bird
 Flappy bird is game to control a flying bird to moving forward and avoid hit the walls. There two actions, fly and keep.
 Fly action lift the bird up and keep action result in falling down because of the gravity.
