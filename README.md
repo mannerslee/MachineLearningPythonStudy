@@ -16,7 +16,7 @@ There is an DRL demo to reimplement classic paper of DRL.
 Cartpole is to control a inverse pendulum on a car.  The task is with 3 acitons: push left, right and keep.
 
 
-![Image](./img/cartpole.git "carpole")
+![Image](https://github.com/mannerslee/MachineLearningPythonStudy/blob/master/img/cartpole.gif "carpole")
 
 ### Double DQN on Flappy Bird
 Flappy bird is game to control a flying bird to moving forward and avoid hit the walls. There two actions, fly and keep.
